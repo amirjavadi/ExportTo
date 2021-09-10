@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>pardazesh parsian © 2020-2021</Copyright>
+    <PackageProjectUrl>https://github.com/amirjavadi/ExportTo</PackageProjectUrl>
+    <PackageIcon>export-file-document-doc-produce-execute-interface-13290.png</PackageIcon>
+    <RepositoryUrl>https://github.com/amirjavadi/ExportTo</RepositoryUrl>
+    <RepositoryType>MIT</RepositoryType>
+    <PackageTags>Export,Excel,Csv</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\OS\Amir-PC\Desktop\export-file-document-doc-produce-execute-interface-13290.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

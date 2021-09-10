@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dualp.Packages.ExportTo", "Dualp.Packages.ExportTo\Dualp.Packages.ExportTo.csproj", "{71163DED-A073-406A-BA28-4B68B89B227B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71163DED-A073-406A-BA28-4B68B89B227B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71163DED-A073-406A-BA28-4B68B89B227B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71163DED-A073-406A-BA28-4B68B89B227B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71163DED-A073-406A-BA28-4B68B89B227B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8863A8F1-E0E7-4AA2-973F-D3FE9A2FF6AD}
+	EndGlobalSection
+EndGlobal
